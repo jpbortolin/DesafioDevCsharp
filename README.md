@@ -68,4 +68,4 @@ dotnet run --project Exercicio3.Juros
 
 ## Validação
 
-Os três programas foram executados manualmente no ambiente local.
+Os três programas foram executados manualmente no ambiente local e estão compilando normalmente.
